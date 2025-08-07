@@ -28,7 +28,29 @@
   Programa, kuri apskaičiuoja, kiek vatvalandžių elektros energijos per dieną suvartoja mokykla, žinant kabinetų, lempučių skaičių ir vienos lemputės galią.
 
 - **0729pp-7.cpp**  
-  **(Namų darbas)** Programa, kuri randa dviejų įvestų sveikųjų skaičių skirtumo ir sumos sandaugą. Ši užduotis dar neįgyvendinta – ją būtina atlikti iki kitos pamokos. Rekomenduojama atidžiai perskaityti užduoties sąlygą ir išbandyti įvairius testavimo atvejus
+  Programa, kuri randa dviejų įvestų sveikųjų skaičių skirtumo ir sumos sandaugą.
+
+- **0807pp-8.cpp**  
+  Programa, kuri įvestą skaičių pakelia kvadratu ir kubu. Skirta suprasti laipsniavimo funkcijų taikymą ir rezultatų išvedimą.
+
+- **0807pp-9.cpp**  
+  Programa, kuri apskaičiuoja, kiek suknelių galima pasiūti iš duotos medžiagos, kai žinomas bendras ilgis ir vienai suknelei reikalingas ilgis. Praktinė užduotis dalybos operacijai įtvirtinti.
+
+- **0807pp-10.cpp**  
+  Programa, kuri metus paverčia mėnesiais.
+
+- **0807pp-11.cpp**  
+  Programa, kuri apskaičiuoja lygiakraščio trikampio perimetrą pagal kraštinių ilgius. Skirta geometrijos ir aritmetikos žinių taikymui.
+
+- **0807pp-12.cpp**  
+  Programa, kuri apskaičiuoja du sudėtingesnius aritmetinius reiškinius su keturiais įvestais skaičiais. Skatina analizuoti veiksmų eiliškumą ir operatorių taikymą.
+
+- **0807pp-13.cpp**  
+  Programa, kurioje reikia apskaičiuoti ir išvesti kelis sudėtingesnius aritmetinius reiškinius pagal užduotus pavyzdžius. Skirta operatorių prioritetų ir skaičiavimų praktikai.
+
+- **0807pp-14.cpp**  
+  Programa, kuri apskaičiuoja stačiojo trikampio plotą pagal statinių ilgius ir rezultatą pateikia dviejų skaičių po kablelio tikslumu. Skirta realiųjų skaičių ir formatavimo įgūdžiams lavinti.
+  
 
 ### Kiti failai
 
@@ -36,10 +58,15 @@
   Teorinė medžiaga ir užduočių sąlygos
 
 
-## Namų darbai (privaloma atlikti iki kitos pamokos 08.05) 
+## Namų darbai
 
 > **Svarbu!**
 >
-> Namų darbui iki kitos pamokos (08.05) reikia atlikti ir užbaigti failą [`0729pp-7.cpp`](0729pp-7.cpp). Rekomenduojama iškarto išbandyti programą su įvairiais įvesties duomenimis ir pasirūpinti, kad sprendimas būtų aiškus, tvarkingas ir komentuotas.
+> **Iki kitos pamokos reikia:**
+> - Užbaigti 13-ąją užduotį: [`0807pp-13.cpp`](0807pp-13.cpp).
+> - Toliau tęsti ir atlikti kiek įmanoma daugiau užduočių nuo 15-osios užduoties
+>
+> Rekomenduojama sprendimus rašyti aiškiai, tvarkingai ir su komentarais. Jei kyla klausimų dėl užduočių sąlygų ar sprendimo eigos, drąsiai klausti pamokos metu. 
+> Išsprendus užduotis, atsiųsk jas el. paštu arba per mesengerį, kad galėčiau peržiūrėti ir pateikti atsiliepimus.
 
 ---

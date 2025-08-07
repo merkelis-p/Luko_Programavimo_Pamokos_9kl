@@ -20,7 +20,6 @@ int main() {
     int a, b, c, d, e;
 
     cout << "Iveskite 5 skaicius: ";
-
     cin >> a >> b >> c >> d >> e;
 
     cout << "  a = " << a << ", b = " << b << ", c = " << c << ", d = " << d << ", e = " << e << endl;

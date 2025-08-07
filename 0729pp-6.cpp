@@ -22,7 +22,6 @@ int main () {
     int kab, lemp, W, Wh;
 
     cout << "Iveskite tris skaicius (kabinetu skaiciu, lempuciu skaiciu kabinete, vienos lemputes galinguma): ";
-
     cin >> kab >> lemp >> W;
 
     int h = 8; // mokykla dirba nuo 8 val. iki 16 val., tai 8 valandos darbo

@@ -14,17 +14,14 @@ int main () {
     int saldainio_kaina;
 
     cout << "Iveskite saldainio kaina centais: ";
-
     cin >> saldainio_kaina;
 
     int monetos_5, monetos_2, monetos_1;
 
     monetos_5 = saldainio_kaina / 5;
-    
     saldainio_kaina = saldainio_kaina % 5; //saldainio_kaina %= 5;
 
     monetos_2 = saldainio_kaina / 2;
-
     saldainio_kaina = saldainio_kaina % 2;
 
     monetos_1 = saldainio_kaina;
