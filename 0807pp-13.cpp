@@ -13,9 +13,7 @@
 
 using namespace std;
 
-
 int main() {
-
 
     // a) 100 % 16 * 5 % 3 / 2 =
     int a = 100 % 16 * 5 % 3 / 2;

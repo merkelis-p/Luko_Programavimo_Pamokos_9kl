@@ -60,6 +60,18 @@
 
 - [`0812pp-17.cpp`](0812pp-17.cpp)  
   Programa, kuri apskaičiuoja trapecijos plotą pagal duotus pagrindų ilgius ir aukštinę. Rezultatas pateikiamas vienetų tikslumu. Skirta geometrinių figūrų ploto skaičiavimo įgūdžiams lavinti.
+
+- [`0819pp-18.cpp`](0819pp-18.cpp)  
+  Programa, kuri keturis įvestus realiuosius skaičius padalina iš 17 ir apskaičiuoja rezultatų sumą. Rezultatas pateikiamas dešimtųjų tikslumu. Skirta dalybos operacijų ir realiųjų skaičių praktikai.
+
+- [`0819pp-19.cpp`](0819pp-19.cpp)  
+  Programa, kuri apskaičiuoja matematinės svyruoklės periodą pagal formulę t = 2π√(l/g), kai žinomas svyruoklės ilgis. Rezultatas pateikiamas šimtųjų tikslumu. Skirta fizikos formulių ir trigonometrijos taikymui.
+
+- [`0819pp-20.cpp`](0819pp-20.cpp)  
+  Programa, kuri apskaičiuoja, kokią procentinę dalį pinigų išleido berniukas už saldainius. Rezultatas pateikiamas 0,01 tikslumu. Skirta procentų skaičiavimo įgūdžiams lavinti.
+
+- [`0819pp-21.cpp`](0819pp-21.cpp)  
+  Programa, kuri apskaičiuoja traukinio vidutinį greitį km/h ir m/s, kai žinomas atstumas ir laikas. Rezultatas pateikiamas 0,01 tikslumu. Skirta fizikos uždavinių sprendimui ir vienetų konvertavimui.
   
 
 ### Kiti failai
@@ -74,10 +86,6 @@
 >
 > **Iki kitos pamokos reikia:**
 > - Pabaigti 13-ąją užduotį: [`0807pp-13.cpp`](0807pp-13.cpp).
-> - Toliau tęsti ir atlikti kiek įmanoma daugiau užduočių nuo 18-osios užduoties iki 21-osios imtinai.
->
-> Rekomenduojama sprendimus rašyti aiškiai, tvarkingai ir su komentarais. Jei kyla klausimų dėl užduočių sąlygų ar sprendimo eigos, drąsiai klausti pamokos metu.
->
-> Išsprendus užduotis, atsiųsk jas (kodus, ne nuotraukas) el. paštu arba per mesengerį, kad galėčiau peržiūrėti ir pateikti atsiliepimus.
+> - Ištestuoti visus sprendimus su visom sąlygomis nuo 1-osios iki 21-osios užduoties imtinai ir užrašyti visus rezultatus ir kodus į sąsiuvinį.
 
 ---
